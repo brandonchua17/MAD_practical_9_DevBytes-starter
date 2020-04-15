@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MAD_practical_9_DevBytes-starter.iml" filepath="$PROJECT_DIR$/MAD_practical_9_DevBytes-starter.iml" group="MAD_practical_9_DevBytes-starter" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="MAD_practical_9_DevBytes-starter/app" />
+    </modules>
+  </component>
+</project>
